@@ -1,0 +1,25 @@
+/nig-games/                  <-- Main project folder
+│
+├── index.html               <-- Main page with game cards
+│
+├── css/                     <-- Folder for stylesheets
+│   └── styles.css           <-- Optional external CSS file
+│
+├── js/                      <-- Folder for JavaScript files
+│   └── script.js            <-- Optional external JavaScript file
+│
+├── games/                   <-- Folder containing individual game pages
+│   ├── basket-random.html   <-- Game 1 page
+│   ├── spiral-roll.html     <-- Game 2 page
+│   ├── vex-7.html           <-- Game 3 page
+│   ├── time-shooter.html    <-- Game 4 page
+│   ├── cookie-clicker.html  <-- Game 5 page
+│   ├── ...                  <-- Add more game pages here
+│
+├── images/                  <-- Folder for images/thumbnails
+│   ├── basket-random.png    <-- Thumbnail for Game 1
+│   ├── spiral-roll.png      <-- Thumbnail for Game 2
+│   ├── vex-7.png            <-- Thumbnail for Game 3
+│   ├── ...                  <-- Add more thumbnails here
+│
+└── README.md                <-- Optional file to describe your project
